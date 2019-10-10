@@ -8,8 +8,6 @@ public class Test {
         int[] A = {-3, 1, 2, -2, 5, 6};
 //        int[] A = {2, 8, 2, 4, 5, 6};
 //        int[] A = {10, 10, 10};
-//        int[] A = {-3, 1, 2, -2, 5, 6};
-//        int[] A = {-3, 1, 2, -2, 5, 6};
 //        int[] A = {-5, 5, -5, 10};
         System.out.println(solution(A));
     }
